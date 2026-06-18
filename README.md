@@ -20,7 +20,7 @@ This project is a recreation of Spotify's login screen designed in Figma. The go
 
 ## Project Preview
 
-(Add your screenshot here)
+[(Add your screenshot here)](https://github.com/Santhoshini9-op/spotify-login-screen-redesign/blob/main/Screenshot%202026-06-18%20204739.png)
 
 ## Figma File
 
