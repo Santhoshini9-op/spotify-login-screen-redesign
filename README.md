@@ -24,7 +24,7 @@ This project is a recreation of Spotify's login screen designed in Figma. The go
 
 ## Figma File
 
-[(Add your Figma link here)](https://www.figma.com/design/jfpVBQQrpMoo208zNy9qKd/Untitled?node-id=20-2&t=7tF56UXRZeWaKHmu-1)
+[[(Add your Figma link here)]](https://www.figma.com/design/jfpVBQQrpMoo208zNy9qKd/Untitled?node-id=50-170&t=BwHhhNWIvp7xEQCU-1)
 
 ## Learning Outcome
 
